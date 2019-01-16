@@ -10,7 +10,7 @@ These two programs are toy programs to be shown in [29reach](https://29reach.com
 
 ## Overview
 
-It's a kind of [Gomoku](https://en.wikipedia.org/wiki/Gomoku "Gomoku") game, or strictly speaking, 'Kyumoku' game. That is, the player who succeeds in placing 9 markers in a line becomes the winner. The person who playes first is called 'Ni', and the other person 'Ku'. Empty spaces are expressed by the symbol '#' and each player places in turn the number representing him / her, '2' for Ni and '9' for Ku. If one game continues for 92 turns, the game ends in a draw.
+It's a kind of [Gomoku](https://en.wikipedia.org/wiki/Gomoku "Gomoku") game, or strictly speaking, 'Kyumoku' game. That is, the player who succeeds in placing 9 markers in a line becomes the winner. The person who playes first is called 'Ni', and the other person 'Ku'. 29x29 empty spaces are expressed by the symbol '#' and each player places in turn the number representing him / her, '2' for Ni and '9' for Ku. If one game continues for 92 turns, the game ends in a draw.
 
 
 ## Demonstration
