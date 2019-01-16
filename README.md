@@ -35,3 +35,9 @@ In order to play it, you have to install numpy via pip.
 ## Overview
 
 When you input an integer N that is larger than 8, this program expresses it in the form 'N=2a+9b', where a and b are nonnegative integers.       
+
+
+## Demonstration
+
+
+![29reach](https://github.com/yuyawk/29reach/blob/master/29reach.png "29reach")
