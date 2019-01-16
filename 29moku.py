@@ -11,7 +11,7 @@ import numpy as np
 Nrow = 29
 Ncolumn = 29
 turn_max = 92
-Npoint_win = 3
+Npoint_win = 9
 
 
 
